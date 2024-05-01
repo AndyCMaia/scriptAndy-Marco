@@ -22,6 +22,7 @@ echo ##       ##     ##    ##    ########  ######        ######  ########  ##
 echo.
 echo.
 :: Título de instruções internas do script.
+echo ##      Criadores; Andy Cordeiro Maia & Marco Aurelio Zivieri      ##
 echo ##              Logotipo feito no site (www.asciiart.eu).          ##
 echo ##                Execute o script como Administrador!             ##
 echo ##    Sem executar como Administrador, não atualiza programas!     ##
